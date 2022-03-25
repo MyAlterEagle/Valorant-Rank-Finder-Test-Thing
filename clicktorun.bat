@@ -1,0 +1,2 @@
+node rankFinder.js
+pause
